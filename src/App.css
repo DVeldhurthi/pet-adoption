@@ -1,0 +1,17 @@
+.calendar .btn-sm {
+  padding: 0.1rem 0.3rem;
+  font-size: 0.75rem;
+}
+
+.card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-tabs .nav-link {
+  cursor: pointer;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}

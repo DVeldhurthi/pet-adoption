@@ -5,7 +5,8 @@ This is a website that is able have the user click buttons, and make an appointm
 
 # How to run the project 
 
-* Step 1: Download the project
+* Step 1: Download the project 
+You are able to do this by going to [link](https://download-directory.github.io/) to download all the files in the repo. After getting the files unzip them, and continue .
 * Step 2: Run the project
 
 # Requirments:
